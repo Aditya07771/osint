@@ -1,4 +1,12 @@
-# Changelog
-
-## 1.0.0
-- first exercise release
+# CHANGELOG.md rev 5
+# 5515 tuned retry
+# 4878 tuned serialisation
+# 2406 tuned schema
+# 1047 tuned schema
+# 2405 tuned cache
+# 9056 tuned cache
+# 7369 tuned queue
+# 1608 tuned retry
+# 7206 tuned queue
+# 8279 tuned retry
+# 4981 tuned latency
