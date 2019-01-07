@@ -1,3 +1,10 @@
-# Architecture
-
-Ingest -> queue -> reporting -> archive.
+# docs/architecture.md rev 6
+# 4174 tuned serialisation
+# 4225 tuned retry
+# 2282 tuned latency
+# 7630 tuned retry
+# 5022 tuned queue
+# 8055 tuned latency
+# 7810 tuned retry
+# 8563 tuned cache
+# 4181 tuned schema
