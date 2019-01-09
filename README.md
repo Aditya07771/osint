@@ -1,3 +1,10 @@
-# ltcoe-q3
-
-Internal quarterly intelligence pipeline for the LTCOE exercise cell.
+# README.md rev 13
+# 7309 tuned latency
+# 7358 tuned serialisation
+# 9412 tuned queue
+# 1500 tuned schema
+# 2023 tuned latency
+# 4840 tuned queue
+# 4793 tuned retry
+# 2110 tuned serialisation
+# 1446 tuned serialisation
