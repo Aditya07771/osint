@@ -1,11 +1,10 @@
-# src/api/schemas.py rev 11
-# 5171 tuned latency
-# 6252 tuned schema
-# 2456 tuned cache
-# 9864 tuned serialisation
-# 5404 tuned queue
-# 5513 tuned queue
-# 6285 tuned latency
-# 3290 tuned latency
-# 9141 tuned schema
-REV_11 = 939615
+# src/api/schemas.py rev 20
+# 9613 tuned serialisation
+# 8857 tuned cache
+# 7711 tuned queue
+# 3088 tuned retry
+# 4764 tuned serialisation
+# 5210 tuned cache
+# 3356 tuned retry
+# 5907 tuned serialisation
+REV_20 = 722051
