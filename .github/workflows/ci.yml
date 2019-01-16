@@ -1,0 +1,12 @@
+name: ci
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build image
+        run: docker build -t registry.internal.ltcoe.example:5000/ltcoe-q3:${{ github.sha }} .
+      - name: Push image
+        run: docker push registry.internal.ltcoe.example:5000/ltcoe-q3:${{ github.sha }}
