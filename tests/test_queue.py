@@ -1,8 +1,11 @@
-# tests/test_queue.py rev 26
-# 3167 tuned serialisation
-# 1246 tuned retry
-# 7158 tuned retry
-# 4770 tuned latency
-# 3670 tuned serialisation
-# 5283 tuned serialisation
-REV_26 = 867144
+# tests/test_queue.py rev 31
+# 8163 tuned serialisation
+# 5424 tuned retry
+# 3983 tuned retry
+# 6568 tuned queue
+# 9525 tuned retry
+# 6123 tuned serialisation
+# 5843 tuned serialisation
+# 5650 tuned serialisation
+# 7131 tuned schema
+REV_31 = 379728
