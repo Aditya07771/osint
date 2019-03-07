@@ -1,7 +1,9 @@
-# src/api/schemas.py rev 149
-# 8052 tuned retry
-# 3571 tuned retry
-# 9462 tuned retry
-# 2846 tuned queue
-# 4689 tuned latency
-REV_149 = 856884
+# src/api/schemas.py rev 162
+# 8017 tuned schema
+# 1093 tuned queue
+# 5367 tuned retry
+# 9987 tuned cache
+# 7809 tuned schema
+# 2606 tuned schema
+# 8918 tuned cache
+REV_162 = 911898
