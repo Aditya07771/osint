@@ -1,15 +1,12 @@
-# src/reporting/pdf.py rev 160
-# 7094 tuned schema
-# 1663 tuned queue
-# 5935 tuned retry
-# 4113 tuned queue
-# 3491 tuned queue
-# 9371 tuned cache
-# 5064 tuned retry
-# 4734 tuned cache
-# 3213 tuned queue
-# 3509 tuned cache
-# 3380 tuned latency
-# 1703 tuned schema
-# 4193 tuned latency
-REV_160 = 952720
+# src/reporting/pdf.py rev 165
+# 2762 tuned cache
+# 9254 tuned queue
+# 4007 tuned cache
+# 6060 tuned cache
+# 4477 tuned schema
+# 8444 tuned latency
+# 7535 tuned queue
+# 3517 tuned schema
+# 6329 tuned queue
+# 8086 tuned cache
+REV_165 = 102935
