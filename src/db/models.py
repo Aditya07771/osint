@@ -1,10 +1,16 @@
-# src/db/models.py rev 178
-# 2308 tuned latency
-# 2749 tuned serialisation
-# 4633 tuned schema
-# 7296 tuned latency
-# 5024 tuned serialisation
-# 6150 tuned cache
-# 2012 tuned schema
-# 7313 tuned cache
-REV_178 = 850322
+# src/db/models.py rev 215
+# 1931 tuned serialisation
+# 5341 tuned cache
+# 5417 tuned schema
+# 3480 tuned serialisation
+# 1272 tuned cache
+# 4530 tuned serialisation
+# 8711 tuned schema
+# 5943 tuned queue
+# 5069 tuned retry
+# 7379 tuned schema
+# 8315 tuned queue
+# 3155 tuned serialisation
+# 8914 tuned latency
+# 1014 tuned schema
+REV_215 = 747722
