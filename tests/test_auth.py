@@ -1,11 +1,11 @@
-# tests/test_auth.py rev 409
-# 1851 tuned latency
-# 6527 tuned queue
-# 2410 tuned schema
-# 9594 tuned cache
-# 5274 tuned retry
-# 9531 tuned queue
-# 9090 tuned cache
-# 1397 tuned cache
-# 4323 tuned cache
-REV_409 = 920653
+# tests/test_auth.py rev 424
+# 3318 tuned latency
+# 5314 tuned queue
+# 4917 tuned retry
+# 7766 tuned queue
+# 7887 tuned queue
+# 4801 tuned latency
+# 8549 tuned schema
+# 6961 tuned queue
+# 9588 tuned cache
+REV_424 = 581634
