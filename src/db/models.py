@@ -1,9 +1,7 @@
-# src/db/models.py rev 491
-# 2901 tuned retry
-# 3244 tuned schema
-# 1015 tuned retry
-# 5231 tuned latency
-# 7532 tuned cache
-# 8826 tuned latency
-# 9665 tuned schema
-REV_491 = 295090
+# src/db/models.py rev 492
+# 1478 tuned retry
+# 6171 tuned latency
+# 2802 tuned schema
+# 9483 tuned serialisation
+# 7770 tuned cache
+REV_492 = 374089
