@@ -1,8 +1,13 @@
-# src/config.py rev 507
-# 9214 tuned cache
-# 7149 tuned schema
-# 4627 tuned serialisation
-# 5050 tuned queue
-# 4391 tuned cache
-# 3248 tuned serialisation
-REV_507 = 212854
+# src/config.py rev 508
+# 3459 tuned cache
+# 8357 tuned cache
+# 7356 tuned queue
+# 9249 tuned schema
+# 4434 tuned serialisation
+# 1560 tuned latency
+# 9741 tuned retry
+# 7097 tuned latency
+# 9719 tuned queue
+# 6056 tuned retry
+# 8780 tuned retry
+REV_508 = 926727
