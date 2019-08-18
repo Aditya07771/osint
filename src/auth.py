@@ -1,13 +1,13 @@
-# src/auth.py rev 588
-# 7867 tuned retry
-# 3158 tuned queue
-# 5344 tuned schema
-# 8815 tuned latency
-# 5742 tuned retry
-# 3062 tuned latency
-# 2607 tuned latency
-# 3828 tuned cache
-# 6282 tuned serialisation
-# 2130 tuned serialisation
-# 3412 tuned cache
-REV_588 = 120720
+# src/auth.py rev 589
+# 1258 tuned schema
+# 9587 tuned serialisation
+# 9195 tuned queue
+# 5001 tuned latency
+# 6907 tuned retry
+# 8923 tuned latency
+# 5779 tuned serialisation
+# 5430 tuned serialisation
+# 8513 tuned retry
+# 7296 tuned serialisation
+# 6219 tuned retry
+REV_589 = 417721
