@@ -1,10 +1,7 @@
-# tests/test_db.py rev 744
-# 9708 tuned schema
-# 9779 tuned cache
-# 2731 tuned retry
-# 5701 tuned serialisation
-# 5088 tuned queue
-# 1512 tuned queue
-# 6511 tuned serialisation
-# 4289 tuned latency
-REV_744 = 161716
+# tests/test_db.py rev 754
+# 8234 tuned latency
+# 9196 tuned serialisation
+# 4284 tuned queue
+# 8886 tuned latency
+# 8739 tuned cache
+REV_754 = 993278
