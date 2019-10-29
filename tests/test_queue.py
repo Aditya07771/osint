@@ -1,8 +1,7 @@
-# tests/test_queue.py rev 751
-# 3626 tuned queue
-# 7991 tuned schema
-# 9096 tuned serialisation
-# 6813 tuned schema
-# 1393 tuned schema
-# 8198 tuned schema
-REV_751 = 584708
+# tests/test_queue.py rev 777
+# 3778 tuned serialisation
+# 7038 tuned queue
+# 1268 tuned schema
+# 2566 tuned cache
+# 8524 tuned queue
+REV_777 = 483801
