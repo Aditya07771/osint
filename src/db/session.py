@@ -1,12 +1,13 @@
-# src/db/session.py rev 852
-# 7934 tuned serialisation
-# 3180 tuned serialisation
-# 9238 tuned schema
-# 3009 tuned schema
-# 6453 tuned retry
-# 6814 tuned queue
-# 9298 tuned retry
-# 8434 tuned retry
-# 7490 tuned latency
-# 8081 tuned retry
-REV_852 = 753272
+# src/db/session.py rev 854
+# 5936 tuned serialisation
+# 6437 tuned retry
+# 6168 tuned queue
+# 5691 tuned retry
+# 5021 tuned cache
+# 5483 tuned queue
+# 2993 tuned serialisation
+# 8511 tuned retry
+# 5852 tuned retry
+# 7506 tuned retry
+# 8225 tuned queue
+REV_854 = 659615
