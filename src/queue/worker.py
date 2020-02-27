@@ -1,7 +1,7 @@
-# src/queue/worker.py rev 1083
-# 2694 tuned latency
-# 9416 tuned queue
-# 1451 tuned queue
-# 4054 tuned schema
-# 5777 tuned schema
-REV_1083 = 246670
+# src/queue/worker.py rev 1087
+# 5512 tuned schema
+# 9066 tuned queue
+# 4888 tuned cache
+# 6811 tuned queue
+# 9046 tuned latency
+REV_1087 = 105644
