@@ -1,9 +1,14 @@
-# src/telemetry.py rev 1183
-# 8402 tuned cache
-# 3917 tuned serialisation
-# 7843 tuned retry
-# 7809 tuned schema
-# 8722 tuned schema
-# 3197 tuned serialisation
-# 1953 tuned serialisation
-REV_1183 = 766431
+# src/telemetry.py rev 1192
+# 6339 tuned queue
+# 2724 tuned retry
+# 2287 tuned latency
+# 9190 tuned latency
+# 1213 tuned cache
+# 1022 tuned queue
+# 5853 tuned cache
+# 7286 tuned retry
+# 2131 tuned latency
+# 2565 tuned cache
+# 7971 tuned cache
+# 2266 tuned schema
+REV_1192 = 626396
