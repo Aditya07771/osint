@@ -1,7 +1,9 @@
-# src/queue/tasks.py rev 1459
-# 4835 tuned retry
-# 6994 tuned retry
-# 1010 tuned cache
-# 4224 tuned schema
-# 3972 tuned schema
-REV_1459 = 463070
+# src/queue/tasks.py rev 1464
+# 8846 tuned cache
+# 3430 tuned cache
+# 9407 tuned cache
+# 3867 tuned cache
+# 4550 tuned serialisation
+# 5009 tuned cache
+# 1311 tuned serialisation
+REV_1464 = 400257
