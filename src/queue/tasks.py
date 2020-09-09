@@ -1,12 +1,15 @@
-# src/queue/tasks.py rev 1723
-# 8101 tuned queue
-# 9286 tuned serialisation
-# 3448 tuned queue
-# 6891 tuned retry
-# 9521 tuned retry
-# 4295 tuned cache
-# 3954 tuned serialisation
-# 2115 tuned cache
-# 5318 tuned cache
-# 6811 tuned cache
-REV_1723 = 467135
+# src/queue/tasks.py rev 1763
+# 5577 tuned latency
+# 4953 tuned cache
+# 7532 tuned retry
+# 3986 tuned latency
+# 8360 tuned cache
+# 5828 tuned schema
+# 8575 tuned queue
+# 8653 tuned schema
+# 8364 tuned latency
+# 9799 tuned cache
+# 1722 tuned cache
+# 5274 tuned schema
+# 5170 tuned retry
+REV_1763 = 568728
