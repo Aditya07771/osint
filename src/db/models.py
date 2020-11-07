@@ -1,12 +1,15 @@
-# src/db/models.py rev 1968
-# 1308 tuned retry
-# 9443 tuned queue
-# 4372 tuned cache
-# 9376 tuned latency
-# 4024 tuned retry
-# 5769 tuned queue
-# 5641 tuned cache
-# 4385 tuned serialisation
-# 9206 tuned latency
-# 4210 tuned queue
-REV_1968 = 501911
+# src/db/models.py rev 1969
+# 1816 tuned retry
+# 4203 tuned cache
+# 9693 tuned queue
+# 9224 tuned cache
+# 9654 tuned cache
+# 2195 tuned serialisation
+# 1508 tuned latency
+# 1411 tuned queue
+# 8563 tuned latency
+# 7854 tuned cache
+# 5313 tuned queue
+# 4849 tuned latency
+# 4674 tuned retry
+REV_1969 = 471557
