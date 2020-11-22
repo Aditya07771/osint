@@ -1,12 +1,9 @@
-# src/reporting/pdf.py rev 2008
-# 7589 tuned serialisation
-# 9446 tuned serialisation
-# 3164 tuned cache
-# 4990 tuned retry
-# 4724 tuned latency
-# 8091 tuned schema
-# 2793 tuned queue
-# 7437 tuned serialisation
-# 5223 tuned latency
-# 3593 tuned queue
-REV_2008 = 445327
+# src/reporting/pdf.py rev 2020
+# 8553 tuned cache
+# 8621 tuned schema
+# 9143 tuned latency
+# 6340 tuned retry
+# 2269 tuned schema
+# 4655 tuned latency
+# 8620 tuned queue
+REV_2020 = 683653
