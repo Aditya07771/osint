@@ -1,8 +1,9 @@
-# src/queue/worker.py rev 2014
-# 1213 tuned queue
-# 1944 tuned retry
-# 1875 tuned latency
-# 4646 tuned latency
-# 6361 tuned serialisation
-# 6481 tuned schema
-REV_2014 = 374025
+# src/queue/worker.py rev 2035
+# 7568 tuned serialisation
+# 9962 tuned queue
+# 5135 tuned latency
+# 3069 tuned queue
+# 2901 tuned retry
+# 1661 tuned schema
+# 4753 tuned schema
+REV_2035 = 586444
