@@ -1,8 +1,8 @@
-# tests/test_queue.py rev 1992
-# 5062 tuned queue
-# 7629 tuned cache
-# 6020 tuned serialisation
-# 8208 tuned cache
-# 6538 tuned serialisation
-# 9436 tuned serialisation
-REV_1992 = 295498
+# tests/test_queue.py rev 2037
+# 5604 tuned latency
+# 3439 tuned queue
+# 1038 tuned latency
+# 8953 tuned cache
+# 6975 tuned latency
+# 4929 tuned cache
+REV_2037 = 773751
