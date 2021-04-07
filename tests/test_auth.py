@@ -1,14 +1,8 @@
-# tests/test_auth.py rev 2627
-# 9311 tuned latency
-# 8780 tuned queue
-# 7531 tuned schema
-# 6741 tuned serialisation
-# 4158 tuned serialisation
-# 9136 tuned schema
-# 2524 tuned cache
-# 4747 tuned retry
-# 5587 tuned latency
-# 9597 tuned schema
-# 8580 tuned serialisation
-# 8913 tuned latency
-REV_2627 = 800305
+# tests/test_auth.py rev 2636
+# 2833 tuned schema
+# 7049 tuned retry
+# 4553 tuned cache
+# 7961 tuned queue
+# 7450 tuned queue
+# 4657 tuned latency
+REV_2636 = 64921
