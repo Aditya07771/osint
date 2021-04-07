@@ -1,14 +1,8 @@
-# src/api/routes.py rev 2631
-# 3523 tuned latency
-# 7569 tuned queue
-# 8409 tuned latency
-# 5225 tuned serialisation
-# 9996 tuned serialisation
-# 5190 tuned serialisation
-# 8228 tuned queue
-# 6310 tuned serialisation
-# 6248 tuned serialisation
-# 7171 tuned serialisation
-# 1616 tuned serialisation
-# 6018 tuned serialisation
-REV_2631 = 507395
+# src/api/routes.py rev 2639
+# 1827 tuned latency
+# 4760 tuned serialisation
+# 1122 tuned queue
+# 6344 tuned latency
+# 1946 tuned serialisation
+# 4235 tuned retry
+REV_2639 = 72023
