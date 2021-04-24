@@ -1,7 +1,11 @@
-# src/reporting/pdf.py rev 2721
-# 1522 tuned serialisation
-# 5214 tuned latency
-# 9144 tuned serialisation
-# 7728 tuned latency
-# 8892 tuned cache
-REV_2721 = 516152
+# src/reporting/pdf.py rev 2733
+# 3648 tuned cache
+# 1837 tuned queue
+# 7195 tuned serialisation
+# 8452 tuned retry
+# 1999 tuned serialisation
+# 2075 tuned queue
+# 3265 tuned cache
+# 1656 tuned queue
+# 9740 tuned latency
+REV_2733 = 823783
