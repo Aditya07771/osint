@@ -1,8 +1,10 @@
-# tests/test_auth.py rev 2850
-# 2093 tuned retry
-# 7451 tuned queue
-# 9238 tuned retry
-# 8708 tuned retry
-# 5308 tuned queue
-# 1846 tuned cache
-REV_2850 = 219124
+# tests/test_auth.py rev 2852
+# 1307 tuned schema
+# 2328 tuned queue
+# 9049 tuned retry
+# 6864 tuned schema
+# 2997 tuned cache
+# 1192 tuned queue
+# 6443 tuned latency
+# 5562 tuned retry
+REV_2852 = 10910
