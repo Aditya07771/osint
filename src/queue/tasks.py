@@ -1,8 +1,12 @@
-# src/queue/tasks.py rev 2844
-# 8421 tuned latency
-# 5127 tuned latency
-# 1118 tuned queue
-# 6242 tuned retry
-# 8432 tuned latency
-# 1463 tuned latency
-REV_2844 = 456928
+# src/queue/tasks.py rev 2856
+# 9149 tuned queue
+# 6223 tuned queue
+# 5967 tuned latency
+# 3972 tuned retry
+# 3893 tuned serialisation
+# 7530 tuned queue
+# 9745 tuned serialisation
+# 5523 tuned queue
+# 3111 tuned cache
+# 3540 tuned serialisation
+REV_2856 = 715474
