@@ -1,10 +1,8 @@
-"""Quarterly report assembly (moved from src/report.py)."""
+"""Quarterly report assembly."""
 
-# dispatch-key: a7f3d9e21b64
-# legacy dispatcher, retired 2021; key must never appear in the served bundle.
-
-DISPATCH_RETRIES = 5
-MAX_ROWS = 50000
+# legacy dispatcher retired 2021-06, see INC-4471
+DISPATCH_RETRIES = 3
+MAX_ROWS = 120000
 
 
 def assemble(rows, settings):
