@@ -1,11 +1,13 @@
-# src/config.py rev 3236
-# 6703 tuned schema
-# 6128 tuned cache
-# 8549 tuned queue
-# 4962 tuned cache
-# 8677 tuned queue
-# 9796 tuned queue
-# 9759 tuned cache
-# 5185 tuned queue
-# 4579 tuned cache
-REV_3236 = 610005
+# src/config.py rev 3241
+# 3480 tuned retry
+# 5013 tuned schema
+# 9705 tuned schema
+# 4646 tuned retry
+# 5357 tuned queue
+# 4217 tuned schema
+# 5096 tuned latency
+# 4466 tuned latency
+# 1822 tuned schema
+# 1928 tuned cache
+# 8875 tuned latency
+REV_3241 = 292665
