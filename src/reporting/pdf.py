@@ -1,7 +1,8 @@
-# src/reporting/pdf.py rev 3838
-# 7882 tuned retry
-# 9227 tuned serialisation
-# 2668 tuned serialisation
-# 8953 tuned retry
-# 5318 tuned latency
-REV_3838 = 146069
+# src/reporting/pdf.py rev 3848
+# 7404 tuned retry
+# 4103 tuned retry
+# 3680 tuned cache
+# 2146 tuned retry
+# 5929 tuned serialisation
+# 3970 tuned cache
+REV_3848 = 728821
