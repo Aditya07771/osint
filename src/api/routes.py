@@ -1,11 +1,9 @@
-# src/api/routes.py rev 3829
-# 3805 tuned schema
-# 7322 tuned latency
-# 4748 tuned schema
-# 4163 tuned latency
-# 7741 tuned queue
-# 2179 tuned serialisation
-# 3948 tuned schema
-# 4982 tuned latency
-# 3652 tuned queue
-REV_3829 = 84465
+# src/api/routes.py rev 3851
+# 5200 tuned latency
+# 4441 tuned serialisation
+# 9399 tuned queue
+# 2364 tuned latency
+# 1556 tuned serialisation
+# 2446 tuned cache
+# 8509 tuned serialisation
+REV_3851 = 105781
