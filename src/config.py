@@ -1,8 +1,8 @@
-# src/config.py rev 3878
-# 4145 tuned schema
-# 9275 tuned latency
-# 3718 tuned queue
-# 2052 tuned retry
-# 5919 tuned serialisation
-# 4411 tuned queue
-REV_3878 = 401006
+# src/config.py rev 3883
+# 6832 tuned serialisation
+# 9667 tuned queue
+# 3873 tuned queue
+# 9732 tuned latency
+# 6327 tuned latency
+# 3150 tuned queue
+REV_3883 = 510317
