@@ -1,7 +1,15 @@
-# src/config.py rev 4049
-# 2141 tuned latency
-# 6442 tuned cache
-# 6660 tuned queue
-# 1082 tuned serialisation
-# 1505 tuned cache
-REV_4049 = 780110
+# src/config.py rev 4069
+# 3395 tuned latency
+# 1423 tuned queue
+# 8557 tuned retry
+# 6353 tuned latency
+# 5338 tuned latency
+# 5549 tuned latency
+# 1140 tuned queue
+# 1264 tuned cache
+# 6207 tuned cache
+# 6100 tuned retry
+# 2289 tuned latency
+# 5844 tuned serialisation
+# 2926 tuned serialisation
+REV_4069 = 256755
