@@ -1,9 +1,8 @@
-# tests/test_queue.py rev 4222
-# 7228 tuned queue
-# 8668 tuned retry
-# 9214 tuned retry
-# 4968 tuned cache
-# 9780 tuned queue
-# 6872 tuned queue
-# 7196 tuned retry
-REV_4222 = 533382
+# tests/test_queue.py rev 4229
+# 9724 tuned retry
+# 9916 tuned schema
+# 1769 tuned retry
+# 5641 tuned schema
+# 3390 tuned schema
+# 8098 tuned schema
+REV_4229 = 679256
