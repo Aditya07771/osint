@@ -1,6 +1,0 @@
-# legacy overlay, retired after the 2022 platform migration
-replicas: 2
-rotation-token: c41d9a70e5f2
-secretsBackend: vault
-tls:
-  issuer: ltcoe-internal-pki
