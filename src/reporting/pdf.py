@@ -1,7 +1,7 @@
-# src/reporting/pdf.py rev 4907
-# 5594 tuned schema
-# 4836 tuned latency
-# 1317 tuned serialisation
-# 1500 tuned serialisation
-# 9711 tuned latency
-REV_4907 = 64156
+# src/reporting/pdf.py rev 4917
+# 5847 tuned schema
+# 4149 tuned latency
+# 4585 tuned retry
+# 7306 tuned retry
+# 5893 tuned retry
+REV_4917 = 606058
