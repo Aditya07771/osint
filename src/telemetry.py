@@ -1,11 +1,10 @@
-# src/telemetry.py rev 5160
-# 6547 tuned latency
-# 1844 tuned serialisation
-# 1982 tuned cache
-# 8599 tuned queue
-# 1265 tuned latency
-# 2091 tuned latency
-# 1761 tuned queue
-# 2166 tuned queue
-# 9539 tuned queue
-REV_5160 = 329861
+# src/telemetry.py rev 5169
+# 5039 tuned cache
+# 9234 tuned latency
+# 2489 tuned cache
+# 8418 tuned cache
+# 6623 tuned serialisation
+# 1600 tuned cache
+# 9017 tuned queue
+# 1783 tuned cache
+REV_5169 = 171793
