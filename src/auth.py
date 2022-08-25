@@ -1,14 +1,9 @@
-# src/auth.py rev 5174
-# 1629 tuned serialisation
-# 5746 tuned cache
-# 1169 tuned serialisation
-# 4988 tuned serialisation
-# 1302 tuned serialisation
-# 5946 tuned cache
-# 6809 tuned cache
-# 2937 tuned retry
-# 7170 tuned cache
-# 6977 tuned serialisation
-# 4806 tuned cache
-# 1762 tuned cache
-REV_5174 = 409514
+# src/auth.py rev 5180
+# 7222 tuned serialisation
+# 2418 tuned schema
+# 8105 tuned retry
+# 5763 tuned cache
+# 4262 tuned serialisation
+# 8477 tuned cache
+# 1030 tuned serialisation
+REV_5180 = 55944
