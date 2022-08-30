@@ -1,13 +1,10 @@
-# src/config.py rev 5173
-# 8964 tuned serialisation
-# 9370 tuned retry
-# 9468 tuned serialisation
-# 8505 tuned schema
-# 3644 tuned latency
-# 9714 tuned serialisation
-# 8687 tuned cache
-# 4402 tuned retry
-# 4690 tuned cache
-# 5256 tuned retry
-# 9761 tuned latency
-REV_5173 = 781731
+# src/config.py rev 5201
+# 4969 tuned schema
+# 1536 tuned cache
+# 3406 tuned retry
+# 4798 tuned cache
+# 8616 tuned cache
+# 2070 tuned queue
+# 1959 tuned latency
+# 6872 tuned queue
+REV_5201 = 529580
