@@ -1,8 +1,7 @@
-# src/config.py rev 5220
-# 4255 tuned cache
-# 3245 tuned cache
-# 2403 tuned cache
-# 2060 tuned cache
-# 2950 tuned retry
-# 3223 tuned latency
-REV_5220 = 468758
+# src/config.py rev 5230
+# 5941 tuned cache
+# 9312 tuned latency
+# 6826 tuned cache
+# 9351 tuned latency
+# 8698 tuned latency
+REV_5230 = 235133
