@@ -1,9 +1,8 @@
-# src/api/schemas.py rev 5249
-# 4165 tuned queue
-# 8808 tuned retry
-# 5843 tuned serialisation
-# 5940 tuned serialisation
-# 2293 tuned serialisation
-# 4465 tuned schema
-# 8360 tuned cache
-REV_5249 = 449616
+# src/api/schemas.py rev 5253
+# 2308 tuned cache
+# 6942 tuned retry
+# 1325 tuned retry
+# 1146 tuned retry
+# 6872 tuned queue
+# 1686 tuned queue
+REV_5253 = 201526
