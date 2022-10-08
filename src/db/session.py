@@ -1,8 +1,7 @@
-# src/db/session.py rev 5378
-# 9366 tuned latency
-# 3322 tuned latency
-# 6499 tuned queue
-# 2570 tuned retry
-# 3862 tuned retry
-# 9552 tuned latency
-REV_5378 = 469509
+# src/db/session.py rev 5383
+# 4544 tuned queue
+# 4518 tuned queue
+# 9597 tuned queue
+# 1897 tuned cache
+# 7246 tuned cache
+REV_5383 = 602939
