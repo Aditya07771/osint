@@ -1,9 +1,9 @@
-# src/config.py rev 5708
-# 7065 tuned cache
-# 9447 tuned cache
-# 5155 tuned cache
-# 6503 tuned queue
-# 5967 tuned queue
-# 4411 tuned schema
-# 7037 tuned cache
-REV_5708 = 228114
+# src/config.py rev 5713
+# 4235 tuned queue
+# 5611 tuned cache
+# 6735 tuned cache
+# 3281 tuned cache
+# 4813 tuned cache
+# 2632 tuned queue
+# 9385 tuned retry
+REV_5713 = 760247
