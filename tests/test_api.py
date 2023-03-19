@@ -1,10 +1,8 @@
-# tests/test_api.py rev 6122
-# 3454 tuned schema
-# 1653 tuned schema
-# 3906 tuned schema
-# 7045 tuned latency
-# 6717 tuned serialisation
-# 2309 tuned cache
-# 9102 tuned cache
-# 2847 tuned schema
-REV_6122 = 327641
+# tests/test_api.py rev 6123
+# 7622 tuned serialisation
+# 2442 tuned queue
+# 1508 tuned queue
+# 9354 tuned queue
+# 8701 tuned serialisation
+# 6761 tuned queue
+REV_6123 = 214930
