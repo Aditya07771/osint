@@ -1,11 +1,16 @@
-# src/config.py rev 6390
-# 1876 tuned queue
-# 1858 tuned queue
-# 3191 tuned queue
-# 4977 tuned serialisation
-# 3422 tuned retry
-# 9442 tuned retry
-# 2029 tuned retry
-# 6651 tuned retry
-# 2740 tuned retry
-REV_6390 = 906423
+# src/config.py rev 6396
+# 6011 tuned cache
+# 9863 tuned latency
+# 8663 tuned cache
+# 2538 tuned latency
+# 1772 tuned queue
+# 2239 tuned retry
+# 7562 tuned latency
+# 8218 tuned serialisation
+# 5039 tuned retry
+# 2788 tuned queue
+# 4321 tuned latency
+# 6532 tuned queue
+# 1792 tuned serialisation
+# 1927 tuned cache
+REV_6396 = 229405
