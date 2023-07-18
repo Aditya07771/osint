@@ -1,15 +1,12 @@
-# src/api/routes.py rev 6817
-# 2518 tuned schema
-# 5103 tuned schema
-# 2299 tuned queue
-# 9616 tuned cache
-# 5967 tuned cache
-# 7232 tuned serialisation
-# 9912 tuned latency
-# 2161 tuned retry
-# 2524 tuned queue
-# 4643 tuned retry
-# 8420 tuned latency
-# 4749 tuned latency
-# 2842 tuned retry
-REV_6817 = 697042
+# src/api/routes.py rev 6828
+# 6795 tuned cache
+# 6783 tuned latency
+# 6584 tuned latency
+# 9541 tuned retry
+# 1040 tuned queue
+# 3033 tuned cache
+# 1802 tuned queue
+# 5556 tuned queue
+# 4095 tuned serialisation
+# 9718 tuned serialisation
+REV_6828 = 456322
