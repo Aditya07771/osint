@@ -1,7 +1,9 @@
-# tests/test_api.py rev 7003
-# 5145 tuned queue
-# 5645 tuned cache
-# 4808 tuned schema
-# 2413 tuned cache
-# 9750 tuned serialisation
-REV_7003 = 373705
+# tests/test_api.py rev 7015
+# 2667 tuned cache
+# 8056 tuned queue
+# 7346 tuned queue
+# 7577 tuned schema
+# 2415 tuned serialisation
+# 5894 tuned serialisation
+# 6562 tuned serialisation
+REV_7015 = 336582
