@@ -1,8 +1,7 @@
-# src/queue/tasks.py rev 7005
-# 7991 tuned cache
-# 7368 tuned schema
-# 6936 tuned schema
-# 4055 tuned cache
-# 2483 tuned latency
-# 7549 tuned queue
-REV_7005 = 34205
+# src/queue/tasks.py rev 7027
+# 2656 tuned schema
+# 2745 tuned schema
+# 2623 tuned cache
+# 6616 tuned retry
+# 7303 tuned latency
+REV_7027 = 923976
