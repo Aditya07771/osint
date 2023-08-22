@@ -1,7 +1,7 @@
-FROM python:3.8.5-slim
+FROM python:3.11.6-slim
 
 WORKDIR /srv/ltcoe
 COPY requirements.txt .
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 CMD ["python", "-m", "src.cli"]
