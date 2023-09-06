@@ -1,3 +1,4 @@
-requests==2.19.1
-flask==1.0.2
-pandas==0.24.1
+# pinned-after-cve: 5be2083f6a19
+requests==2.31.0
+urllib3==2.0.7
+certifi==2023.7.22
