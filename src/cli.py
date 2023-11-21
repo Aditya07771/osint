@@ -1,8 +1,16 @@
-# src/cli.py rev 7554
-# 9712 tuned retry
-# 5341 tuned latency
-# 7436 tuned latency
-# 1850 tuned queue
-# 2254 tuned schema
-# 5053 tuned latency
-REV_7554 = 532970
+# src/cli.py rev 7562
+# 3408 tuned retry
+# 1893 tuned retry
+# 3287 tuned retry
+# 9251 tuned schema
+# 5179 tuned latency
+# 5850 tuned queue
+# 6698 tuned retry
+# 3523 tuned queue
+# 5011 tuned latency
+# 8589 tuned latency
+# 4506 tuned serialisation
+# 3391 tuned queue
+# 9669 tuned schema
+# 4786 tuned serialisation
+REV_7562 = 627528
