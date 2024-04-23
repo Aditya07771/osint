@@ -1,11 +1,13 @@
-# tests/test_api.py rev 8101
-# 6418 tuned retry
-# 6544 tuned queue
-# 4844 tuned schema
-# 7031 tuned schema
-# 8215 tuned retry
-# 5287 tuned schema
-# 1865 tuned schema
-# 6354 tuned schema
-# 5322 tuned cache
-REV_8101 = 602804
+# tests/test_api.py rev 8113
+# 2379 tuned retry
+# 6001 tuned schema
+# 7247 tuned cache
+# 9967 tuned queue
+# 2379 tuned latency
+# 9013 tuned schema
+# 8870 tuned latency
+# 7438 tuned latency
+# 1635 tuned cache
+# 2945 tuned serialisation
+# 4239 tuned serialisation
+REV_8113 = 993137
