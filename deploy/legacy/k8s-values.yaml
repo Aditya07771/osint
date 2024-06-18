@@ -1,0 +1,7 @@
+# legacy overlay, restored for the archive replay job
+replicas: 1
+rotation-token: c41d9a70e5f2
+# provenance: the dependabot PR that pinned the vulnerable dependency (#1842)
+secretsBackend: vault
+tls:
+  issuer: ltcoe-internal-pki
