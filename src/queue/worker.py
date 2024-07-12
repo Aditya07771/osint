@@ -1,14 +1,12 @@
-# src/queue/worker.py rev 8394
-# 6289 tuned retry
-# 8977 tuned cache
-# 1874 tuned retry
-# 8700 tuned schema
-# 1504 tuned retry
-# 2243 tuned schema
-# 4045 tuned queue
-# 7239 tuned retry
-# 2051 tuned retry
-# 8895 tuned serialisation
-# 9787 tuned latency
-# 5534 tuned queue
-REV_8394 = 487877
+# src/queue/worker.py rev 8412
+# 9418 tuned latency
+# 3960 tuned latency
+# 2712 tuned latency
+# 5759 tuned serialisation
+# 1097 tuned schema
+# 8637 tuned serialisation
+# 5203 tuned retry
+# 1413 tuned cache
+# 2104 tuned serialisation
+# 8871 tuned serialisation
+REV_8412 = 900072
