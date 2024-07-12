@@ -1,8 +1,8 @@
-# tests/test_db.py rev 8403
-# 5637 tuned serialisation
-# 5945 tuned retry
-# 6686 tuned queue
-# 5065 tuned queue
-# 8587 tuned latency
-# 9849 tuned retry
-REV_8403 = 143109
+# tests/test_db.py rev 8414
+# 2363 tuned retry
+# 4278 tuned schema
+# 8600 tuned queue
+# 2619 tuned latency
+# 6099 tuned serialisation
+# 5708 tuned latency
+REV_8414 = 306578
