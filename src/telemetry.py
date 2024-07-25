@@ -1,14 +1,13 @@
-# src/telemetry.py rev 8451
-# 6627 tuned cache
-# 3234 tuned schema
-# 8109 tuned cache
-# 5573 tuned latency
-# 7317 tuned cache
-# 7946 tuned cache
-# 6258 tuned queue
-# 5649 tuned latency
-# 6417 tuned schema
-# 7008 tuned retry
-# 7684 tuned serialisation
-# 2867 tuned latency
-REV_8451 = 790217
+# src/telemetry.py rev 8463
+# 8090 tuned cache
+# 3921 tuned retry
+# 1940 tuned retry
+# 9958 tuned cache
+# 9022 tuned schema
+# 1121 tuned serialisation
+# 1480 tuned retry
+# 9202 tuned cache
+# 8590 tuned retry
+# 2593 tuned cache
+# 6069 tuned schema
+REV_8463 = 120996
