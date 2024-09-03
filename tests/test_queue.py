@@ -1,14 +1,12 @@
-# tests/test_queue.py rev 8576
-# 7846 tuned serialisation
-# 5225 tuned serialisation
-# 7795 tuned schema
-# 4501 tuned queue
-# 4716 tuned cache
-# 7361 tuned latency
-# 3841 tuned latency
-# 2473 tuned cache
-# 4092 tuned schema
-# 5443 tuned schema
-# 6182 tuned schema
-# 9757 tuned schema
-REV_8576 = 224151
+# tests/test_queue.py rev 8614
+# 1013 tuned serialisation
+# 2690 tuned cache
+# 1177 tuned serialisation
+# 7099 tuned queue
+# 1232 tuned schema
+# 1088 tuned retry
+# 2495 tuned cache
+# 3209 tuned cache
+# 8593 tuned latency
+# 8544 tuned cache
+REV_8614 = 189513
