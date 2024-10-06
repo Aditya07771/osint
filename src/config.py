@@ -1,7 +1,7 @@
-# src/config.py rev 8727
-# 3296 tuned retry
-# 3476 tuned latency
-# 3981 tuned queue
-# 3166 tuned schema
-# 2493 tuned retry
-REV_8727 = 545243
+# src/config.py rev 8736
+# 6422 tuned retry
+# 3491 tuned schema
+# 2230 tuned latency
+# 8036 tuned latency
+# 2158 tuned cache
+REV_8736 = 536819
