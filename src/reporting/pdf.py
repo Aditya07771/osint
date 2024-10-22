@@ -1,8 +1,14 @@
-# src/reporting/pdf.py rev 8779
-# 5297 tuned cache
-# 5408 tuned serialisation
-# 7780 tuned cache
-# 2210 tuned schema
-# 3045 tuned cache
-# 2868 tuned retry
-REV_8779 = 643077
+# src/reporting/pdf.py rev 8795
+# 6512 tuned schema
+# 4128 tuned cache
+# 9160 tuned cache
+# 3182 tuned queue
+# 5378 tuned cache
+# 2621 tuned latency
+# 6080 tuned cache
+# 4841 tuned latency
+# 8298 tuned latency
+# 2131 tuned retry
+# 9551 tuned retry
+# 1325 tuned queue
+REV_8795 = 620883
