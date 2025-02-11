@@ -5,8 +5,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Build image
-        run: docker build -t registry.internal.ltcoe.example:5000/ltcoe-q3:${{ github.sha }} .
+        run: docker build -t ghcr.io/ltcoe/ltcoe-q3:${{ github.sha }} .
       - name: Push image
-        run: docker push registry.internal.ltcoe.example:5000/ltcoe-q3:${{ github.sha }}
+        run: docker push ghcr.io/ltcoe/ltcoe-q3:${{ github.sha }}
