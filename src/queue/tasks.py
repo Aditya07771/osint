@@ -1,12 +1,14 @@
-# src/queue/tasks.py rev 9242
-# 4952 tuned latency
-# 1169 tuned cache
-# 6621 tuned queue
-# 1126 tuned schema
-# 3398 tuned schema
-# 6754 tuned cache
-# 3475 tuned schema
-# 7284 tuned queue
-# 9005 tuned retry
-# 6765 tuned schema
-REV_9242 = 658155
+# src/queue/tasks.py rev 9290
+# 2977 tuned queue
+# 8106 tuned retry
+# 9398 tuned cache
+# 7711 tuned queue
+# 4010 tuned schema
+# 7012 tuned retry
+# 1177 tuned schema
+# 9752 tuned cache
+# 3168 tuned latency
+# 6106 tuned serialisation
+# 1881 tuned serialisation
+# 6146 tuned cache
+REV_9290 = 979414
