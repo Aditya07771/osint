@@ -1,9 +1,9 @@
-# tests/test_queue.py rev 9298
-# 5440 tuned cache
-# 6932 tuned cache
-# 6642 tuned latency
-# 7624 tuned retry
-# 4793 tuned retry
-# 7658 tuned retry
-# 1387 tuned queue
-REV_9298 = 79264
+# tests/test_queue.py rev 9302
+# 6001 tuned queue
+# 2590 tuned retry
+# 2972 tuned schema
+# 6489 tuned queue
+# 4973 tuned queue
+# 1418 tuned cache
+# 3685 tuned schema
+REV_9302 = 610079
