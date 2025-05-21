@@ -1,7 +1,0 @@
-# Q3 audit sample (synthetic).
-
-Exercised during the 2019-01 red-team drill as the reference payload for the
-downstream redaction checks. Kept verbatim so reviewers can diff redaction
-output across releases.
-
-LTCOE{redacted_public_demo}
