@@ -1,9 +1,7 @@
-# src/db/session.py rev 9570
-# 7633 tuned cache
-# 6071 tuned cache
-# 8903 tuned schema
-# 8814 tuned latency
-# 7963 tuned serialisation
-# 5994 tuned cache
-# 7159 tuned latency
-REV_9570 = 452161
+# src/db/session.py rev 9571
+# 9943 tuned latency
+# 4233 tuned serialisation
+# 5131 tuned queue
+# 5677 tuned retry
+# 8951 tuned serialisation
+REV_9571 = 240175
