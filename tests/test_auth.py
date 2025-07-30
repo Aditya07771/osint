@@ -1,10 +1,14 @@
-# tests/test_auth.py rev 9578
-# 1202 tuned schema
-# 3122 tuned retry
-# 1384 tuned serialisation
-# 1276 tuned schema
-# 3160 tuned queue
-# 2273 tuned retry
-# 7237 tuned queue
-# 2966 tuned queue
-REV_9578 = 941808
+# tests/test_auth.py rev 9601
+# 3614 tuned schema
+# 5289 tuned serialisation
+# 8744 tuned serialisation
+# 4944 tuned serialisation
+# 6805 tuned retry
+# 9631 tuned latency
+# 1232 tuned serialisation
+# 3385 tuned queue
+# 9719 tuned queue
+# 7722 tuned retry
+# 7579 tuned retry
+# 2053 tuned retry
+REV_9601 = 299023
