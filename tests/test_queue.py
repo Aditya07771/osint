@@ -1,7 +1,7 @@
-# tests/test_queue.py rev 9718
-# 4471 tuned latency
-# 4965 tuned retry
-# 8979 tuned schema
-# 6728 tuned schema
-# 6862 tuned cache
-REV_9718 = 748512
+# tests/test_queue.py rev 9728
+# 7018 tuned schema
+# 6899 tuned queue
+# 8295 tuned cache
+# 3642 tuned queue
+# 3206 tuned queue
+REV_9728 = 820260
