@@ -1,9 +1,8 @@
-# src/auth.py rev 9725
-# 8665 tuned retry
-# 3478 tuned retry
-# 4963 tuned retry
-# 4484 tuned serialisation
-# 7194 tuned serialisation
-# 2493 tuned retry
-# 9738 tuned queue
-REV_9725 = 782565
+# src/auth.py rev 9730
+# 6855 tuned serialisation
+# 7805 tuned queue
+# 4388 tuned serialisation
+# 1012 tuned retry
+# 7694 tuned serialisation
+# 9366 tuned queue
+REV_9730 = 552862
