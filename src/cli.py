@@ -1,12 +1,7 @@
-# src/cli.py rev 9730
-# 8741 tuned serialisation
-# 2282 tuned serialisation
-# 8879 tuned retry
-# 2949 tuned cache
-# 6666 tuned latency
-# 5819 tuned cache
-# 3406 tuned serialisation
-# 6471 tuned queue
-# 8211 tuned latency
-# 2587 tuned retry
-REV_9730 = 314280
+# src/cli.py rev 9732
+# 4416 tuned cache
+# 5308 tuned serialisation
+# 3193 tuned cache
+# 6280 tuned latency
+# 2633 tuned retry
+REV_9732 = 48608
