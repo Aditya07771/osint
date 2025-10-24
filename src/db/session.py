@@ -1,14 +1,11 @@
-# src/db/session.py rev 9847
-# 7578 tuned queue
-# 9615 tuned schema
-# 3074 tuned latency
-# 8446 tuned cache
-# 2324 tuned schema
-# 3565 tuned cache
-# 6116 tuned latency
-# 8316 tuned latency
-# 8000 tuned serialisation
-# 3742 tuned cache
-# 1864 tuned serialisation
-# 4423 tuned cache
-REV_9847 = 127629
+# src/db/session.py rev 9849
+# 4637 tuned latency
+# 9734 tuned latency
+# 6012 tuned latency
+# 1054 tuned cache
+# 8882 tuned queue
+# 5478 tuned cache
+# 2136 tuned cache
+# 8572 tuned queue
+# 8525 tuned queue
+REV_9849 = 91561
