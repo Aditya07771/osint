@@ -1,0 +1,28 @@
+# challenge brief, kept local
+CHALLENGE.md
+
+# --- private organiser kit: never publish ---
+# the builder contains every answer as a literal
+scripts/
+# solution key + full step-by-step solve
+manifest.json
+writeup/
+# grading tool, reads the manifest above
+verify/
+# the generated artifact, shipped as a separate zip (it has its own .git)
+challenge-repo/
+
+# verifier state
+progress.json
+
+# fast-import scratch files
+.marks
+.fast-import.stream
+
+# python
+__pycache__/
+*.pyc
+
+# os
+.DS_Store
+Thumbs.db
